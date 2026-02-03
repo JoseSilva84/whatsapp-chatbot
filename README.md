@@ -116,7 +116,7 @@ docker-compose up --build
 2. **Tokens de API**:
    - `API_KEY`: Token global da API
    - `SESSION_TOKEN`: Token da sessão WhatsApp
-   - `SESSION_NAME`: Nome da sessão (ex: "junior2")
+   - `SESSION_NAME`: Nome da sessão (ex: "carlos")
 3. **URLs**: Ajuste `BASE_URL` se necessário
 
 ## 🎮 Uso
@@ -251,9 +251,9 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 **José Silva** - Desenvolvedor Web
 
-- LinkedIn: [Seu LinkedIn](https://linkedin.com/in/seu-perfil)
-- Email: seu.email@exemplo.com
-- WhatsApp: +55 11 99999-9999
+- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/jos%C3%A9-silva-dev/)
+- Email: juniornyanata@gmail.com
+- WhatsApp: +55 75 99245-6130
 
 ---
 
