@@ -23,14 +23,14 @@ Um projeto completo para integração com WhatsApp usando WPPConnect, incluindo 
 
 ## 🎯 Sobre o Projeto
 
-Este projeto oferece uma solução completa para automação de mensagens no WhatsApp. O **WPPConnect Server** fornece uma API RESTful para interagir com o WhatsApp Web, enquanto o **Bot Python** implementa um assistente virtual simples com menu interativo.
+Este projeto oferece uma solução completa para automação de mensagens no WhatsApp. O **WPPConnect Server** versão 2.20 fornece uma API RESTful para interagir com o WhatsApp Web, enquanto o **Bot Python** implementa um assistente virtual simples com menu interativo.
 
 O bot responde automaticamente a mensagens recebidas via webhook, oferecendo informações sobre serviços de desenvolvimento web e atendimento personalizado.
 
 ## ✨ Funcionalidades
 
 ### Servidor WPPConnect
-- ✅ Conexão com WhatsApp Web
+- ✅ Conexão com WhatsApp Web via qrcode gerado pela api
 - ✅ Envio e recebimento de mensagens
 - ✅ Gerenciamento de sessões
 - ✅ Suporte a mídia (imagens, vídeos, documentos)
