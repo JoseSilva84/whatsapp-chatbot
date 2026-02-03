@@ -80,7 +80,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina:
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/wppconnect-server-bot.git
+git clone https://github.com/JoseSilva84/chatbot-teste.git
 cd wppconnect-server-bot
 ```
 
