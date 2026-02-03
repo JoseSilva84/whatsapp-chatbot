@@ -128,6 +128,8 @@ cd wppconnect-server
 npm run dev
 ```
 
+Ler o qrcode gerado pela api
+
 O servidor estará disponível em: `http://localhost:21465`
 
 ### Iniciando o Bot
@@ -251,7 +253,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 **José Silva** - Desenvolvedor Web
 
-- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/jos%C3%A9-silva-dev/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-silva-dev/)
 - Email: juniornyanata@gmail.com
 - WhatsApp: +55 75 99245-6130
 
