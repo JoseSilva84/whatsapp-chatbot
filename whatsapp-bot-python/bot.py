@@ -1,5 +1,9 @@
 from flask import Flask, request, jsonify
 import requests
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
 
 app = Flask(__name__)
 
@@ -7,8 +11,8 @@ app = Flask(__name__)
 SESSION_NAME = "junior2"
 BASE_URL = "http://localhost:21465/api"
 
-API_KEY = "THISISMYSECURETOKEN"
-SESSION_TOKEN = "$2b$10$64.tgYBSTj5DWgOLoHZBZOAJP0RLg0t0VShCenEV4B1lLHey4h1gy"
+API_KEY = os.getenv("API_KEY")
+SESSION_TOKEN = os.getenv("SESSION_TOKEN")
 
 SEND_MESSAGE_URL = f"{BASE_URL}/{SESSION_NAME}/send-message"
 

@@ -1,0 +1,17 @@
+# Ambiente virtual
+venv/
+env/
+
+# Arquivos de configuração sensíveis
+.env
+.env.local
+
+# Arquivos temporários
+*.pyc
+__pycache__/
+
+# Logs
+*.log
+
+# Outros
+.DS_Store
