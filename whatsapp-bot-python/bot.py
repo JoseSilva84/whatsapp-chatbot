@@ -73,7 +73,7 @@ def processar_menu(numero, mensagem):
     else:
         enviar_mensagem(numero, "❓ Opção inválida.")
         enviar_mensagem(numero,
-            "🤖 *Bem-vindo ao meu WhatsApp - Sou José Silva - Desenvolvedor Web\n\n"
+            "🙋🏻‍♂️ Bem-vindo ao meu WhatsApp - Sou José Silva - Desenvolvedor Web\n\n"
             "Digite uma opção:\n"
             "1️⃣ Falar comigo no pessoal\n"
             "2️⃣ Ver horário de trabalho\n"
