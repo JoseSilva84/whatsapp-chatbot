@@ -81,8 +81,6 @@ def processar_menu(numero, mensagem):
             "4️⃣ Quem sou"
         )
 
-
-
 # ===== WEBHOOK =====
 @app.route("/webhook", methods=["POST"])
 def webhook():
