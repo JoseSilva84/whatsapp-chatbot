@@ -1,6 +1,6 @@
 # WPPConnect Server com Bot Python
 
-![https://drive.google.com/file/d/18SPXRhXEGZb9wUhtkbsBrjNpzROtw0aN/view?usp=sharing](https://drive.google.com/file/d/18SPXRhXEGZb9wUhtkbsBrjNpzROtw0aN/view?usp=sharing) <!-- Substitua por uma imagem real se disponível -->
+![Capa do projeto](cover.jpg) <!-- coloque um arquivo `cover.jpg` na raiz do repositório ou ajuste o caminho para a imagem desejada -->
 
 Um projeto completo para integração com WhatsApp usando WPPConnect, incluindo um servidor API em Node.js/TypeScript e um bot automatizado em Python com Flask.
 
