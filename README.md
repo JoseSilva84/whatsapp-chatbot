@@ -150,6 +150,7 @@ O bot estará disponível em: `http://localhost:5000`
 
 2. **Configure o Webhook**:
    - No painel do WPPConnect, configure o webhook para: `http://localhost:5000/webhook`
+   - Leia a documentação da wppconnect-server: [Click aqui](https://github.com/wppconnect-team/wppconnect-server)
 
 3. **Teste o Bot**:
    - Envie uma mensagem para o número conectado
